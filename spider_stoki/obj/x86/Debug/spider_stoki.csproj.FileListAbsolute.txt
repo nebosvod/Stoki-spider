@@ -17,3 +17,5 @@ C:\Documents and Settings\sa.ANKOVO\Мои документы\Visual Studio 2010
 C:\Documents and Settings\sa.ANKOVO\Мои документы\Visual Studio 2010\Projects\spider_stoki\spider_stoki\bin\Debug\System.Windows.Forms.dll
 C:\Documents and Settings\sa.ANKOVO\Мои документы\Visual Studio 2010\Projects\spider_stoki\spider_stoki\bin\Debug\System.Xml.dll
 C:\Documents and Settings\sa.ANKOVO\Мои документы\Visual Studio 2010\Projects\spider_stoki\spider_stoki\bin\Debug\System.Xml.Linq.dll
+D:\GIT\Stoki-spider\spider_stoki\obj\x86\Debug\spider_stoki.exe
+D:\GIT\Stoki-spider\spider_stoki\obj\x86\Debug\spider_stoki.pdb

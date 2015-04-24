@@ -157,7 +157,7 @@ namespace spider_stoki
 
                 date_mysql = date11.Year + date1 + date2 + time1 + time2+"00";
 
-                string conn_str = "Database=resources;Data Source=10.1.1.50;User Id=sa;Password=Rfnfgekmrf48";
+                string conn_str = "Database=resources;Data Source=10.1.1.50;User Id=user;Password=password";
                 MySqlLib.MySqlData.MySqlExecute.MyResult result = new MySqlLib.MySqlData.MySqlExecute.MyResult();
 
                 result = MySqlLib.MySqlData.MySqlExecute.SqlNoneQuery("INSERT INTO stoki (`stoki_date`,`stoki`) VALUES (" + "'" + date_mysql + "'" + "," + "'" + pok_mysql + "'" + ")", conn_str);
@@ -289,7 +289,7 @@ namespace spider_stoki
 
                 date_mysql = date11.Year + date1 + date2 + time1 + time2 + "00";
 
-                string conn_str = "Database=resources;Data Source=10.1.1.50;User Id=sa;Password=Rfnfgekmrf48";
+                string conn_str = "Database=resources;Data Source=10.1.1.50;User Id=user;Password=password";
                 MySqlLib.MySqlData.MySqlExecute.MyResult result = new MySqlLib.MySqlData.MySqlExecute.MyResult();
 
                 result = MySqlLib.MySqlData.MySqlExecute.SqlNoneQuery("INSERT INTO stoki (`stoki_date`,`stoki`) VALUES (" + "'" + date_mysql + "'" + "," + "'" + pok_mysql + "'" + ")", conn_str);
